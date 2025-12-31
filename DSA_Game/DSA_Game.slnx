@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DSA_Game/DSA_Game.vcxproj" Id="ae7a6df3-d40f-49d4-bbb5-253ab45b536d" />
+</Solution>
